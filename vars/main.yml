@@ -1,0 +1,4 @@
+---
+
+backup_repo: https://github.com/colin-mccarthy/network-configs
+backup_branch: "snapshot"
